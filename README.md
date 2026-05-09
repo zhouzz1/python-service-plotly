@@ -1,6 +1,6 @@
 # python-service 部署与运维手册
 
-本文档用于在新机器快速部署 `python-service`，并与 `win-tms`（Java）联调。
+本文档用于在新机器快速部署 `python-service`，并与 `xxx`（Java）联调。
 
 ## 目录结构
 
